@@ -1,0 +1,39 @@
+
+ ===========================
+ = multifrontal statistics =
+ ===========================
+
+     number of equations                     =           12849
+     no. of nonzeroes in lower triangle of a =          511095
+     number of compressed nodes              =            2267
+     no. of compressed nonzeroes in l. tri.  =           13887
+     amount of workspace currently in use    =         2511479
+     max. amt. of workspace used             =        16298972
+     no. of nonzeroes in the factor l        =         1270123.
+     number of super nodes                   =             864
+     number of compressed subscripts         =           61881
+     size of stack storage                   =           39651
+     maximum order of a front matrix         =             209
+     maximum size of a front matrix          =           21945
+     maximum size of a front trapezoid       =           10592
+     no. of floating point ops for factor    =      1.5059D+08
+     no. of floating point ops for solve     =      5.1447D+06
+     actual no. of nonzeroes in the factor l =         1270123.
+     actual number of compressed subscripts  =           61881
+     actual size of stack storage used       =           58851
+     near zero pivot monitoring activated
+     number of pivots adjusted               =              0.
+     negative pivot monitoring activated
+     number of negative pivots encountered   =              0.
+     factorization panel size                =              64
+     factorization update panel size         =              32
+     solution block size                     =               2
+     time (cpu & wall) for structure input   =        0.046800        0.041708
+     time (cpu & wall) for ordering          =        0.015600        0.013357
+     time (cpu & wall) for symbolic factor   =        0.000000        0.001963
+     time (cpu & wall) for value input       =        0.062401        0.056054
+     time (cpu & wall) for numeric factor    =        0.124801        0.061674
+     computational rate (mflops) for factor  =     1206.643766     2441.714142
+     condition number estimate               =      0.0000D+00
+
+     no input or output performed
