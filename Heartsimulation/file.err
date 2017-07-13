@@ -1,0 +1,44 @@
+/COM,ANSYS RELEASE 12.1    UP20091102       18:06:14    07/11/2017
+
+ *** WARNING ***                         CP =       1.014   TIME= 18:06:15
+ First dimension of string parameter _WB_PROJECTSCRATCH_DIR must be less 
+ than or equal to 128.  It is = 248.  The dimension is reset to 128.     
+
+ *** WARNING ***                         CP =       1.014   TIME= 18:06:15
+ First dimension of string parameter _WB_SOLVERFILES_DIR must be less    
+ than or equal to 128.  It is = 248.  The dimension is reset to 128.     
+
+ *** WARNING ***                         CP =       1.014   TIME= 18:06:15
+ First dimension of string parameter _WB_USERFILES_DIR must be less than 
+ or equal to 128.  It is = 248.  The dimension is reset to 128.          
+
+ *** WARNING ***                         CP =       1.108   TIME= 18:06:15
+ RSTSUPPR is not a recognized SOLUTION command, abbreviation, or macro.  
+                                                                         
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       1.108   TIME= 18:06:15
+ DMPOPTIO is not a recognized SOLUTION command, abbreviation, or macro.  
+                                                                         
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       1.108   TIME= 18:06:15
+ DMPOPTIO is not a recognized SOLUTION command, abbreviation, or macro.  
+                                                                         
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       1.139   TIME= 18:06:15
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =       1.139   TIME= 18:06:15
+ Material number 3 (used by element 761 ) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =       6.396   TIME= 18:06:18
+ The XMLO label ENCO is invalid.                                         
+
+ *** WARNING ***                         CP =       6.396   TIME= 18:06:18
+ The XMLO label ISO- is invalid.                                         
+/COM,ANSYS RELEASE 12.1    UP20091102       18:06:45    07/11/2017

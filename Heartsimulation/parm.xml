@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<!--  ************************************************************ -->
+<!--  ************************************************************ -->
+<!--  File Name: parm.xml -->
+<!--  ************************************************************ -->
+<!--  ************************************************************ -->
+<ANSYSDOC xmlns="http://www.ansys.com/caedoc_ns">
+<HEADER>
+   <NAME>ANSYS</NAME>
+   <VERSION>12.1</VERSION>
+   <OS>WINDOWS x64</OS>
+   <DESCRIPTION>Ventricle-r2-Shar-4-16-17--Transient (B5)</DESCRIPTION>
+</HEADER>
+<PARM ID="ANSINTER_">0</PARM>
+<PARM ID="_ASMDIAG">.122759616249</PARM>
+<PARM ID="_LOADVARI300" TABLE="3 1 1">
+ 0
+ 0
+ 0
+ 0
+ .1
+ 0
+ .2
+ 1000
+</PARM>
+<PARM ID="_LOADVARI302" TABLE="2 1 1">
+ 0
+ 0
+ .2
+ 0
+ .3
+ 1000
+</PARM>
+<PARM ID="_LOADVARI304" TABLE="3 1 1">
+ 0
+ 0
+ 0
+ 0
+ .3
+ 0
+ .4
+ 1000
+</PARM>
+<PARM ID="_MAXELEMNUM">893</PARM>
+<PARM ID="_MAXELEMTYPE">6</PARM>
+<PARM ID="_MAXNODENUM">6071</PARM>
+<PARM ID="_MAXREALCONST">1</PARM>
+<PARM ID="_NUMELEM">893</PARM>
+<PARM ID="_NUMNODE">6071</PARM>
+<PARM ID="_RETURN">0</PARM>
+<PARM ID="_STATUS">0</PARM>
+<PARM ID="_WALLASOL">18.105</PARM>
+<PARM ID="_WALLBSOL">18.104166667</PARM>
+<PARM ID="_WALLSTRT">18.104166667</PARM>
+<PARM ID="_WB_PROJECTSCRATCH_DIR" STRING="128 1 1">
+ E:\Independent Study Slater\Ventricle-r2-Shar-4-16-17_files\dp0\SYS\MECH\                                                       
+</PARM>
+<PARM ID="_WB_SOLVERFILES_DIR" STRING="128 1 1">
+ E:\Independent Study Slater\Ventricle-r2-Shar-4-16-17_files\dp0\SYS\MECH\                                                       
+</PARM>
+<PARM ID="_WB_USERFILES_DIR" STRING="128 1 1">
+ E:\Independent Study Slater\Ventricle-r2-Shar-4-16-17_files\user_files\                                                         
+</PARM>
+<PARM ID="_XMAX">.03099987443</PARM>
+<PARM ID="_XMIN">-.04152319375</PARM>
+<PARM ID="_YMAX">.04627211654</PARM>
+<PARM ID="_YMIN">-.05276993495</PARM>
+<FEAMODEL>
+<TABLES>
+</TABLES>
+<LOADCASE ID="1">
+   <LOADSTEP  STEP="1" SUB="1" TIME="1">
+      <BOUNDARY_CONDITIONS>
+      </BOUNDARY_CONDITIONS>
+   </LOADSTEP>
+</LOADCASE>
+</FEAMODEL>
+</ANSYSDOC>
